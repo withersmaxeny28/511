@@ -1,0 +1,1 @@
+An AI-driven personal finance assistant that helps users track expenses, create budgets, and provides personalized financial advice to promote better financial management and decision-making.
